@@ -1,11 +1,12 @@
 # JS ASSIGNMENT 8
 
-Click the button
+Password generator
 
-Sample image
+### Sample image
+
 ![input](./Image/Project.png)
 
-Output image:
+### Output image:
 
 ![thumbnail](./thumbnail.png)
 
